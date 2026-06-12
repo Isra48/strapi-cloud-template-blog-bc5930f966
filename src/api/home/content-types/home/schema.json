@@ -1,0 +1,1 @@
+{"kind":"collectionType","collectionName":"homes","info":{"singularName":"home","pluralName":"homes","displayName":"Home","description":"Contenido del Home"},"options":{"draftAndPublish":true},"pluginOptions":{},"attributes":{"tituloCarrousel":{"type":"string"},"tituloDeListados":{"type":"string"}}}
